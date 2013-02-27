@@ -1,0 +1,210 @@
+/*
+
+    OMFGmail v0.1
+    by Jxnblk
+
+*/
+
+body, td, input, textarea, select {
+margin: 0;
+  font-family: Helvetica, arial, sans-serif !important;
+}
+
+/* Time in Detail View */
+.hx .gH {
+  color: #ccc !important;
+  /*font-size: 16px !important; */
+}
+
+
+
+/* Minimize Top Nav */
+
+#gbx3, #gbz {
+  display: none !important;
+}
+
+#gbu, #gbq, #gbx1, #gbq1 {
+  top: 0 !important;
+}
+
+.gbes#gb, .gbesi#gb {
+  height: 45px !important;
+}
+
+.w-asV {
+  margin-bottom: 0 !important;
+}
+
+.gbem#gb, .gbemi#gb, #gb {
+  height: 45px !important;
+}
+
+.gbem, #gbx1 {
+  height: 45px !important;
+}
+
+.gbem#gbu, .gbem#gbq2, .gbem#gbq3, .gbemi#gb #gbu, .gbemi#gb #gbq2, .gbemi#gb #gbq3, #gbq2, #gbu {
+  padding-top: 8px !important;
+}
+
+
+
+/* Clean up Left Nav */
+
+#:ni {
+  padding: 5px 0 !important;
+}
+
+.nH.oy8Mbf.nn.aeN {
+  padding-top: 5px !important;
+}
+
+.J-Ke.n0 {
+  line-height: 32px !important;
+}
+
+
+/* Make message list readable */
+
+/* .y6 {
+  font-family: Helvetica !important;
+} */
+
+div.AO {
+  border-left: 1px solid #ccc !important;
+}
+
+.nH.nn {
+  margin-top: 5px !important;
+}
+
+tr.zA {
+  font-size: 1rem !important;
+  line-height: 2rem !important;
+  background: #fff !important;
+}
+
+td.oZ-x3 {
+  padding: 7px 0!important;
+}
+
+tr.zA .xY {
+  font-size: 1rem !important;
+}
+
+tr.zA:hover {
+  background: #eef6ff !important; 
+}
+
+/* Hide stars 
+td.apU span {
+  visibility: hidden !important;    
+}
+*/
+
+.ar {                  
+  margin: .5rem auto !important;    /* Labels */
+}
+
+td.xW {
+  color: #ccc !important; /* Time in message list */
+}
+
+.aeJ, .age {
+  padding-right: 0 !important;    /* main content area */
+}
+
+
+/* Make messages readable */
+
+.aju { /* Detail View Avatars */
+  display: none !important;
+}
+
+.amq {
+  visibility: hidden !important;
+}
+
+.adn.ads {
+  padding: 1em 0 !important;
+}
+
+.gE.iv.gt {
+  font-size: 16px !important;
+  padding-top: 0 !important;
+}
+
+.gt {
+  /* font-family: Helvetica !important; */
+  font-size: 16px !important;
+}
+
+.ii.gt { /* Message Body */
+  font-family: Georgia, serif !important;
+  font-size: 1.25rem !important;
+  line-height: 1.5 !important;
+  max-width: 40em !important;
+}
+
+
+/* Hide shit */
+
+td.y3,
+#gbq1, /* main logo */
+#gbg1, /* g+ notif */
+#gbg3,
+.aj5.J-KU-Jg,
+.l2.ov,
+.ade,
+.afM,
+#gbqfbw, /* search button */
+.T-I.J-J5-Ji.nX.T-I-ax7.T-I-Js-Gs.ar7.T-I-JW /* delete button */
+{
+  display: none !important;
+}
+
+/* .ajl.aib.lKgBkb { Left Nav Container 
+  margin-top: 16px !important;
+}
+*/
+
+
+.hX { /* Detail View Labels Table */
+  margin: 12px 9px 0 0 !important;
+}
+
+.ha {  /* Detail View Email Subject */
+  padding-left: 50px !important;
+  font-family: Helvetica, arial, sans-serif !important;
+  font-size: 32px !important;
+  font-weight: bold !important;
+  margin: 16px 0 !important;
+}
+
+.hx .adn, .hx .adu, .hx .adf {
+  padding-left: 0 !important; /* Message Container */
+}
+
+.hx .gs { 
+  margin-left: 50px; /* Message Contents */
+}
+
+.if { /* Detail View Right Column */
+  margin-bottom: 64px !important;
+  margin-right: 0 !important;
+}
+
+/*  Hides the border above messages in the detail view
+.G3.G2 {
+  border-top: none !important;
+} */
+
+
+.lw-avf { /* Compose Message Font */
+  font-size: 20px !important;
+}
+
+.hx .hb {
+  color: #ccc !important;
+}
